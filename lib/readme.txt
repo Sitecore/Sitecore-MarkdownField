@@ -1,0 +1,1 @@
+Place your 'Sitecore.Kernel.dll' in here!
