@@ -5,11 +5,6 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkdownField", "MarkdownField\MarkdownField.csproj", "{94855F75-714A-4F53-AC1D-A1B60F4C7BFD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Includes", "Includes", "{20C82297-A3EC-4BAC-A906-ECB12891A03E}"
-	ProjectSection(SolutionItems) = preProject
-		..\conf\MarkdownField.config = ..\conf\MarkdownField.config
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
