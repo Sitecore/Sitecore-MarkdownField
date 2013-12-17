@@ -30,7 +30,7 @@ namespace SCUG.MarkdownField
                 }
             }
 
-            if (args.FieldTypeKey == "markdownfield")
+            if (args.FieldTypeKey == "markdown")
             {
                 var markdown = new Markdown();
 
